@@ -1,8 +1,7 @@
- 
-	
+/** Script ACLs do not delete !!
+write=whatever 
+read=test
+execute=group:admin
+**/
 
-         var black;
-         black="black";
-         return black;
-         
-
+return "Wrong Script";
