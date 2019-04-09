@@ -1,8 +1,1 @@
- 
-	
-
-         var black;
-         black="black";
-         return black;
-         
-
+return 6;
